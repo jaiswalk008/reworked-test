@@ -1,0 +1,116 @@
+{
+  "name": "process-control",
+  "version": "0.0.1",
+  "description": "the brains",
+  "keywords": [
+    "loopback-application",
+    "loopback"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "engines": {
+    "node": "12 || 14 || 16 || 17 || 20"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "build": "lb-tsc",
+    "build:watch": "lb-tsc --watch",
+    "lint": "yarn run eslint && yarn run prettier:check",
+    "lint:fix": "yarn run eslint:fix && yarn run prettier:fix",
+    "prettier:cli": "lb-prettier \"**/*.ts\" \"**/*.js\"",
+    "prettier:check": "yarn run prettier:cli -l",
+    "prettier:fix": "yarn run prettier:cli --write",
+    "eslint": "lb-eslint --report-unused-disable-directives .",
+    "eslint:fix": "yarn run eslint --fix",
+    "pretest": "yarn run rebuild",
+    "test": "jest",
+    "posttest": "yarn run lint",
+    "test:dev": "lb-mocha --allow-console-logs dist/__tests__/**/*.js && yarn run posttest",
+    "docker:build": "docker build -t process-control .",
+    "docker:run": "docker run -p 3000:3000 -d process-control",
+    "premigrate": "yarn run build",
+    "migrate": "node ./dist/migrate",
+    "preopenapi-spec": "yarn run build",
+    "openapi-spec": "node ./dist/openapi-spec",
+    "prestart": "yarn run rebuild",
+    "start": "node -r source-map-support/register .",
+    "clean": "lb-clean dist *.tsbuildinfo .eslintcache",
+    "rebuild": "yarn run clean && yarn run build"
+  },
+  "nodemonConfig": {
+    "verbose": true,
+    "watch": [
+      "src/"
+    ],
+    "ignore": [
+      "dist/*"
+    ],
+    "ext": "ts",
+    "exec": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Shyam Prabhakar <gprabhakar@reiinnovate.com>",
+  "license": "",
+  "files": [
+    "README.md",
+    "dist",
+    "src",
+    "!*/__tests__"
+  ],
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.95.0",
+    "@hubspot/api-client": "^12.0.1",
+    "@loopback/authentication": "^10.1.1",
+    "@loopback/authentication-jwt": "^0.14.1",
+    "@loopback/boot": "^6.1.1",
+    "@loopback/core": "^5.1.1",
+    "@loopback/cron": "^0.11.1",
+    "@loopback/repository": "^6.1.1",
+    "@loopback/rest": "^13.1.1",
+    "@loopback/rest-explorer": "^6.1.1",
+    "@loopback/service-proxy": "^6.1.1",
+    "@mailchimp/mailchimp_transactional": "^1.0.47",
+    "@types/papaparse": "^5.3.7",
+    "aws-sdk": "^2.1142.0",
+    "bson-objectid": "^2.0.4",
+    "bull": "^4.11.3",
+    "csv": "^6.1.0",
+    "csv-parse": "^5.2.1",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.1",
+    "exceljs": "^4.3.0",
+    "googleapis": "^144.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "jwt-simple": "^0.5.6",
+    "loopback-connector-mongodb": "^6.2.0",
+    "multer": "^1.4.4",
+    "node-schedule": "^2.1.1",
+    "node-xlsx": "^0.21.0",
+    "papaparse": "^5.4.1",
+    "read-excel-file": "^5.3.3",
+    "stripe": "^9.12.0",
+    "tslib": "^2.0.0",
+    "twitter-api-v2": "^1.16.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.23.3",
+    "@loopback/build": "^10.1.1",
+    "@loopback/eslint-config": "^14.0.2",
+    "@loopback/testlab": "^6.1.1",
+    "@types/jest": "^29.5.11",
+    "@types/json2csv": "^5.0.7",
+    "@types/multer": "^1.4.7",
+    "@types/node": "^16.18.38",
+    "eslint": "^8.45.0",
+    "jest": "^29.7.0",
+    "source-map-support": "^0.5.21",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.1.6"
+  }
+}

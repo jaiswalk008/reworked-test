@@ -1,0 +1,9852 @@
+[
+  {
+    "type": "county",
+    "name": "Suffolk county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "New York",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Adjuntas county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Puerto Rico",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aguada county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aguadilla county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Maricao county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Añasco county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Utuado county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Arecibo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barceloneta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cabo Rojo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Peñuelas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Camuy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lares county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Germán county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sabana Grande county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ciales county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dorado county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guánica county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Florida county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guayanilla county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hatillo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hormigueros county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Isabela county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jayuya county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lajas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Las Marías county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Manatí county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Moca county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rincón county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Quebradillas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mayagüez county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Sebastián county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morovis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vega Alta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vega Baja county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yauco county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aguas Buenas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Salinas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aibonito county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Maunabo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Arroyo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ponce county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Naguabo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Naranjito county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Orocovis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Río Grande county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Patillas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Caguas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Canóvanas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ceiba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cayey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fajardo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cidra county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Humacao county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Lorenzo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Santa Isabel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vieques county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Villalba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yabucoa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coamo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Las Piedras county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Loíza county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Luquillo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Culebra county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Juncos county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gurabo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Comerío county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Corozal county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guayama county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barranquitas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Juana Díaz county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Thomas county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Virgin Islands",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Croix county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. John county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Juan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carolina county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bayamón county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guaynabo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Toa Baja county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Toa Alta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cataño county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trujillo Alto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hampden county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Massachusetts",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hampshire county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Worcester county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Berkshire county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Franklin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Middlesex county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Essex county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Plymouth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Norfolk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bristol county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barnstable county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dukes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nantucket county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Newport county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Rhode Island",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Providence county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Washington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kent county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hillsborough county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "New Hampshire",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rockingham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Merrimack county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grafton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Belknap county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carroll county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sullivan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cheshire county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coos county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oxford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Strafford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "York county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Maine",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cumberland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sagadahoc county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Androscoggin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kennebec county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lincoln county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Waldo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Penobscot county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Piscataquis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hancock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aroostook county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Somerset county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Knox county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Windsor county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Vermont",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Orange county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Caledonia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Windham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bennington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chittenden county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grand Isle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lamoille county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Addison county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rutland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Orleans county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hartford county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Connecticut",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Litchfield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tolland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "New London county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "New Haven county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fairfield county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "New Jersey",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hudson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morris county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bergen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Passaic county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Union county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sussex county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Monmouth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Warren county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hunterdon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Salem county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Camden county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ocean county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Burlington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gloucester county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Atlantic county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cape May county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mercer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "New York county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Richmond county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bronx county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Westchester county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Putnam county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rockland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nassau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Queens county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kings county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Albany county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Schenectady county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Montgomery county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greene county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Columbia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rensselaer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Saratoga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fulton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Schoharie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hamilton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Otsego county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ulster county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Delaware county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dutchess county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clinton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Lawrence county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Onondaga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cayuga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oswego county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Madison county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cortland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oneida county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tompkins county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Seneca county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chenango county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wayne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lewis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Herkimer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jefferson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tioga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Broome county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Erie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Genesee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Niagara county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wyoming county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Allegany county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cattaraugus county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chautauqua county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Monroe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Livingston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yates county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ontario county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Steuben county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Schuyler county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chemung county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Beaver county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Pennsylvania",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Allegheny county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Westmoreland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fayette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bedford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Armstrong county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Indiana county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cambria county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clearfield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Elk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Forest county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cameron county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Butler county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clarion county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lawrence county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crawford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Venango county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McKean county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Blair county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Huntingdon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Centre county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Potter county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bradford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lebanon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mifflin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dauphin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Perry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Juniata county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Northumberland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lancaster county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Snyder county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Berks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Adams county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lycoming county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Montour county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Schuylkill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lehigh county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Northampton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carbon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bucks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Luzerne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pike county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lackawanna county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Susquehanna county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Philadelphia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chester county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "New Castle county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Delaware",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "District of Columbia county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "District of Columbia",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Loudoun county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Virginia",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rappahannock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Manassas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prince William county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fauquier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fairfax county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clarke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Howard county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Maryland",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alexandria county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charles county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Mary's county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prince George's county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Calvert county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Anne Arundel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Baltimore county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Garrett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Talbot county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Queen Anne's county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Caroline county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dorchester county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Frederick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wicomico county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cecil county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Falls Church county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stafford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Arlington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fredericksburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Spotsylvania county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "King and Queen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "King George county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Winchester county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shenandoah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Page county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Culpeper county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harrisonburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Augusta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Albemarle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charlottesville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nelson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Louisa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fluvanna county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Amelia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Buckingham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hanover county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "King William county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "New Kent county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Goochland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mathews county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charles City county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Henrico county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "James City county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chesterfield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Powhatan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Williamsburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Accomack county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Isle of Wight county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chesapeake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Virginia Beach county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Newport News county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hampton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Poquoson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Portsmouth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prince George county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dinwiddie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Petersburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brunswick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nottoway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Southampton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Surry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greensville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prince Edward county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mecklenburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charlotte county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Appomattox county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lunenburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Roanoke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Patrick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Henry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pulaski county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Botetourt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pittsylvania county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Floyd county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Giles county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Martinsville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Craig county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Radford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wise county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dickenson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Russell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Buchanan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Scott county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grayson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Smyth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wythe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tazewell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Staunton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bath county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Highland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rockbridge county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alleghany county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Campbell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lynchburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Halifax county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Amherst county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "West Virginia",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McDowell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mingo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greenbrier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pocahontas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Summers county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kanawha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Roane county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Raleigh county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Boone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clay county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Logan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Braxton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mason county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jackson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Calhoun county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gilmer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Berkeley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morgan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cabell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ohio county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brooke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marshall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wood county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pleasants county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wirt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tyler county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ritchie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wetzel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Upshur county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nicholas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Webster county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Randolph county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barbour county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tucker county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harrison county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Doddridge county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Taylor county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Preston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Monongalia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marion county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grant county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mineral county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hardy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pendleton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Davie county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "North Carolina",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Forsyth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yadkin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rowan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stokes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Davidson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alamance county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chatham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Caswell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guilford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Moore county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Person county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harnett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Durham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Johnston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Granville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vance county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nash county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Edgecombe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bertie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Beaufort county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hyde county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pitt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wilson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hertford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Martin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pasquotank county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dare county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Currituck county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Perquimans county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tyrrell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gates county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chowan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stanly county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gaston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Anson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Iredell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cleveland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rutherford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cabarrus county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sampson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Robeson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bladen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Duplin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Scotland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hoke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "New Hanover county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pender county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Columbus county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Onslow county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lenoir county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pamlico county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carteret county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Craven county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jones county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Catawba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Watauga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wilkes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Caldwell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Burke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ashe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Avery county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alexander county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Buncombe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Graham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mitchell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Transylvania county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Henderson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Swain county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yancey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Haywood county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Polk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Macon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cherokee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clarendon county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "South Carolina",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Richland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bamberg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Saluda county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kershaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Orangeburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lexington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Newberry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sumter county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Darlington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Colleton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aiken county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Florence county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Spartanburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Laurens county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greenville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charleston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Georgetown county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Horry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marlboro county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dillon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Abbeville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Anderson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pickens county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oconee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greenwood county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barnwell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Allendale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Edgefield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McCormick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jasper county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "DeKalb county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Georgia",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rockdale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cobb county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gwinnett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barrow county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Newton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Walton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bartow county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Haralson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Douglas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Paulding county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gordon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dawson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lamar county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Spalding county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Butts county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Heard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Meriwether county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coweta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Troup county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clayton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Upson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Emanuel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wheeler county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Evans county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bulloch county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Candler county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tattnall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Screven county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Toombs county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jenkins county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Treutlen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Banks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fannin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hart county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Habersham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rabun county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "White county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lumpkin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stephens county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Towns county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oglethorpe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Elbert county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Taliaferro county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Murray county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Walker county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Whitfield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Catoosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chattooga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dade county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McDuffie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Glascock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wilcox county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wilkinson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Houston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dooly county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Peach county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crisp county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dodge county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bleckley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Twiggs county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Baldwin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Telfair county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Johnson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bibb county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Liberty county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Effingham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McIntosh county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bryan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Long county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ware county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bacon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coffee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Appling county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pierce county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Glynn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jeff Davis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charlton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brantley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lowndes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cook county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Berrien county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clinch county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Atkinson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brooks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Thomas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Echols county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lanier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dougherty county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Turner county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Colquitt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tift county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Irwin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Worth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ben Hill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harris county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chattahoochee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Schley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stewart county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Muscogee county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Florida",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Johns county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lafayette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Baker county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Suwannee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Duval county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Volusia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Flagler county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Leon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gadsden county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wakulla county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dixie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bay county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Holmes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gulf county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Escambia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Santa Rosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Okaloosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alachua county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gilchrist county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Levy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Seminole county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brevard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Osceola county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Indian River county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Miami-Dade county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Broward county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Palm Beach county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hendry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Glades county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pasco county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pinellas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Highlands county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hardee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Collier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Manatee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sarasota county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "DeSoto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Citrus county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hernando county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Lucie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Okeechobee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Clair county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Alabama",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shelby county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tallapoosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Blount county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Talladega county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cullman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chilton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tuscaloosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Winston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lauderdale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Limestone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Colbert county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Etowah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Autauga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crenshaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Elmore county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Covington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bullock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cleburne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Geneva county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Conecuh county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mobile county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dallas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marengo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chambers county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Choctaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Robertson county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Tennessee",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Williamson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cheatham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sumner county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hickman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cannon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dickson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Smith county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trousdale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Humphreys county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Maury county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grundy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McMinn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bradley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rhea county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Meigs county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sequatchie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bledsoe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hawkins county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carter county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Unicoi county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Claiborne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grainger county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cocke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sevier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Loudon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hamblen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crockett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tipton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dyer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hardeman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McNairy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Benton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Weakley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Obion county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gibson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Decatur county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hardin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fentress county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Overton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pickett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Van Buren county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Mississippi",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tate county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Panola county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Quitman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tippah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coahoma county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tunica county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sharkey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bolivar county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sunflower county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Issaquena county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pontotoc county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prentiss county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tishomingo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alcorn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Itawamba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chickasaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grenada county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tallahatchie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yalobusha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Leflore county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yazoo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hinds county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rankin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Simpson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Leake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Copiah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Attala county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jefferson Davis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kemper county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Noxubee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Neshoba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Forrest county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pearl River county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "George county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Amite county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Walthall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oktibbeha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Early county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Terrell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grady county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Miller county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Kentucky",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trimble county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oldham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Spencer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bullitt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Meade county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Breckinridge county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Powell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Menifee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Estill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jessamine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Woodford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bourbon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Owen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clark county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rockcastle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Garrard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Boyle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Casey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Whitley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Laurel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harlan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Leslie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Letcher county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Owsley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bracken county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kenton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fleming county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gallatin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Boyd county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greenup county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Elliott county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wolfe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Breathitt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Magoffin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Knott county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McCracken county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Calloway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carlisle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ballard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Graves county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crittenden county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lyon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Allen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barren county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Metcalfe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Edmonson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Todd county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trigg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Christian county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Daviess county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Muhlenberg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McLean county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hopkins county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McCreary county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Adair county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Larue county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Green county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Licking county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Ohio",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coshocton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Champaign county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ross county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pickaway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hocking county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morrow county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wyandot county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sandusky county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ottawa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lucas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Williams county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Defiance county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Muskingum county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Noble county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Belmont county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guernsey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tuscarawas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Columbiana county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lorain county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ashtabula county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cuyahoga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Geauga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Summit county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Portage county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Medina county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mahoning county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trumbull county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stark county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ashland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Huron county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Preble county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brown county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clermont county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Darke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Miami county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gallia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vinton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Scioto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Athens county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Auglaize county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Van Wert county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Indiana",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hendricks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rush county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Porter county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "LaPorte county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Starke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kosciusko county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Elkhart county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Joseph county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "LaGrange county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Huntington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wells county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cass county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wabash county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dearborn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ripley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Switzerland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bartholomew county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jennings county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jay county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Blackford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dubois county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Warrick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vanderburgh county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Posey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vigo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vermillion county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Parke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tippecanoe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fountain county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Michigan",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lapeer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Macomb county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oakland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Washtenaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sanilac county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shiawassee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Saginaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gladwin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gratiot county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clare county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Midland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oscoda county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Roscommon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ogemaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Arenac county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tuscola county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alcona county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Iosco county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Isabella county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ingham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ionia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Montcalm county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Eaton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kalamazoo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Allegan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Branch county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lenawee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hillsdale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Muskegon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mecosta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Newaygo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oceana county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wexford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grand Traverse county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Antrim county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Manistee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Benzie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Leelanau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Missaukee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kalkaska county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Emmet county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cheboygan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alpena county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Montmorency county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chippewa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charlevoix county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mackinac county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Presque Isle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dickinson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Keweenaw county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alger county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Delta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marquette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Menominee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Schoolcraft county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Luce county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Baraga county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Iron county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Houghton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ontonagon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gogebic county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Iowa",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guthrie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Story county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Audubon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mahaska county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wright county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ringgold county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Keokuk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Poweshiek county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tama county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cerro Gordo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Winnebago county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kossuth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Buena Vista county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Palo Alto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Humboldt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sac county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Black Hawk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bremer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sioux county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Woodbury county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ida county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "O'Brien county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Monona county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pottawattamie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mills county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fremont county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dubuque county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Winneshiek county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Allamakee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Linn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Iowa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cedar county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wapello county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Davis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Appanoose county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Des Moines county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Muscatine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sheboygan county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Wisconsin",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ozaukee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Waukesha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fond du Lac county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Calumet county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Manitowoc county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kenosha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Racine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Milwaukee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Walworth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dane county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sauk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Green Lake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Juneau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barron county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oconto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marinette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Outagamie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shawano county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kewaunee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Door county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marathon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Langlade county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Price county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vilas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rusk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "La Crosse county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Buffalo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trempealeau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vernon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Eau Claire county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pepin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dunn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Washburn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Burnett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bayfield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sawyer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Waushara county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Waupaca county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Minnesota",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Anoka county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kanabec county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Isanti county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Goodhue county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dakota county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chisago county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rice county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wabasha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Steele county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ramsey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hennepin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sibley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sherburne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Renville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McLeod county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carver county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stearns county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Meeker county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mille Lacs county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Louis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carlton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Itasca county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aitkin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Koochiching county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Olmsted county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mower county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Winona county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fillmore county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Blue Earth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nicollet county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Freeborn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Faribault county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Le Sueur county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Watonwan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Waseca county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Redwood county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cottonwood county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nobles county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pipestone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kandiyohi county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stevens county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Swift county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Big Stone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lac qui Parle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Roberts county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yellow Medicine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pope county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Traverse county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morrison county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Otter Tail county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crow Wing county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hubbard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wadena county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Becker county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Norman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mahnomen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wilkin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Beltrami county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clearwater county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lake of the Woods county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pennington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Roseau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Red Lake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kittson county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "South Dakota",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brookings county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Minnehaha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McCook county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Moody county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hutchinson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yankton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kingsbury county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bon Homme county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Codington county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Deuel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Day county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hamlin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Davison county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hanson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Beadle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sanborn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gregory county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Miner county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brule county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Charles Mix county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jerauld county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hand county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lyman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aurora county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Spink county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Edmunds county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Faulk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McPherson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hughes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sully county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mellette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tripp county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stanley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bennett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Haakon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dewey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Perkins county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Corson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ziebach county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harding county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oglala Lakota county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Butte county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Custer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fall River county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "North Dakota",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Traill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sargent county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ransom county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barnes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grand Forks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Walsh county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pembina county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cavalier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rolette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Towner county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bottineau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Benson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Eddy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stutsman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "LaMoure county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Griggs county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Foster county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kidder county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sheridan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dickey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Burleigh county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Emmons county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oliver county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Slope county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Golden Valley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Billings county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bowman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McKenzie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hettinger county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ward county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McHenry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Divide county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mountrail county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stillwater county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Montana",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yellowstone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Powder River county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rosebud county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Treasure county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sweet Grass county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Big Horn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Park county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fergus county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wheatland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Meagher county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Garfield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Musselshell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Petroleum county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Roosevelt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McCone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Daniels county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Valley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Phillips county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fallon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prairie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wibaux county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cascade county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lewis and Clark county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Glacier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pondera county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Judith Basin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Teton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chouteau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Toole county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Blaine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Broadwater county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Silver Bow county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Deer Lodge county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Beaverhead county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Missoula county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Granite county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ravalli county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sanders county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Flathead county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Illinois",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "DuPage county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kane county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ogle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Will county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kendall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "LaSalle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kankakee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Iroquois county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Vermilion county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jo Daviess county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stephenson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Whiteside county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rock Island county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bureau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McDonough county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Peoria county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "De Witt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Piatt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Moultrie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coles county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Edgar county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Macoupin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jersey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bond county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Edwards county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sangamon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Menard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Massac county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Saline county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Missouri",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Francois county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gasconade county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Charles county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Audrain county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Callaway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ralls county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Reynolds county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ste. Genevieve county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shannon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bollinger county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cape Girardeau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stoddard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mississippi county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dunklin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pemiscot county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "New Madrid county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ray county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Platte county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gentry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Andrew county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nodaway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Holt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Atchison county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chariton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bates county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McDonald county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Maries county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Osage county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Moniteau county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cole county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cooper county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pettis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Phelps county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dent county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Texas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Laclede county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Howell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oregon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ozark county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Taney county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hickory county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Kansas",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Leavenworth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Doniphan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wyandotte county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wabaunsee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shawnee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nemaha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pottawatomie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Geary county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Riley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Neosho county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Woodson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coffey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chase county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cloud county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Republic county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jewell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sedgwick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harper county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cowley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harvey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pratt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kiowa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Comanche county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kingman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Barber county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Labette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Osborne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ellsworth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Reno county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ness county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pawnee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ellis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Norton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trego county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rooks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rawlins county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cheyenne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sherman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gove county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wallace county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gray county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Haskell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kearny county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lane county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Finney county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hodgeman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stanton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Seward county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wichita county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greeley county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Nebraska",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Saunders county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cuming county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sarpy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Burt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Thurston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gage county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Thayer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Otoe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Richardson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nance county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Merrick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Colfax county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Antelope county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dixon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Keya Paha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Loup county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Furnas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kearney county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nuckolls county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gosper county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Red Willow county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dundy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Frontier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hitchcock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hayes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Arthur county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morrill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Keith county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kimball county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cherry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Garden county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hooker county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Box Butte county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dawes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Scotts Bluff county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Banner county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Louisiana",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Bernard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Plaquemines county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. John the Baptist county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. James county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lafourche county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Assumption county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Mary county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Terrebonne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ascension county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tangipahoa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Tammany county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Helena county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Landry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Iberia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Acadia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Martin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Evangeline county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Calcasieu county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Beauregard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "East Baton Rouge county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "West Baton Rouge county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "West Feliciana county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pointe Coupee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Iberville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "East Feliciana county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bienville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Natchitoches county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Caddo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bossier county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Red River county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "De Soto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Winn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sabine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ouachita county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Morehouse county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "West Carroll county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "East Carroll county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rapides county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Concordia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Avoyelles county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Catahoula county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tensas county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Arkansas",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Desha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ashley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Drew county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chicot county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nevada county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hempstead county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Little River county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Garland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hot Spring county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Arkansas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Woodruff county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lonoke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Conway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Faulkner county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Independence county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "St. Francis county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cross county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Poinsett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Craighead county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sharp county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Izard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Baxter county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Searcy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sebastian county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Oklahoma",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Oklahoma county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Canadian county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kingfisher county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Washita county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McClain county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Garvin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Travis county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Texas",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Love county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cotton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tillman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harmon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Beckham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Roger Mills county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Woods county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Major county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alfalfa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Woodward county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cimarron county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tulsa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Creek county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wagoner county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rogers county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Payne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nowata county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Okmulgee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mayes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Muskogee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pittsburg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sequoyah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pushmataha county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Atoka county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coal county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Latimer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Le Flore county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kay county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McCurtain county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Okfuskee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Collin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Denton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rockwall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tarrant county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Navarro county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Van Zandt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kaufman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hunt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rains county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Camp county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Titus county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bowie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gregg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nacogdoches county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Trinity county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Freestone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Angelina county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Augustine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Parker county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Somervell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hood county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Palo Pinto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Montague county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cooke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Archer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wilbarger county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Throckmorton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Young county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Baylor county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Erath county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jack county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shackelford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Eastland county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Callahan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Milam county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coryell county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Falls county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lampasas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McLennan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bosque county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Runnels county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Saba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McCulloch county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coleman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Llano county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Concho county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Schleicher county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kimble county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tom Green county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Irion county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Reagan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coke county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sutton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sterling county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fort Bend county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Jacinto county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grimes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Matagorda county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Colorado county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Austin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wharton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brazoria county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Waller county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Galveston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brazos county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Burleson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Victoria county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aransas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "DeWitt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Goliad county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lavaca county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Refugio county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "La Salle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bexar county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bandera county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Frio county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McMullen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Atascosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kerr county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Webb county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Live Oak county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Zapata county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Comal county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guadalupe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Karnes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gonzales county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nueces county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jim Wells county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Patricio county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kenedy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jim Hogg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kleberg county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hidalgo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Starr county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Willacy county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bastrop county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Burnet county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Blanco county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hays county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gillespie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Uvalde county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dimmit county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Real county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Zavala county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kinney county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Val Verde county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Maverick county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hemphill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lipscomb county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Parmer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Randall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hartley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dallam county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Deaf Smith county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Castro county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lamb county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ochiltree county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hansford county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Swisher county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Collingsworth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Childress county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dickens county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cottle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Donley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Foard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Motley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "King county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Briscoe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hockley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cochran county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Terry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crosby county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gaines county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bailey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lubbock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Garza county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yoakum county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lynn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stonewall county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nolan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Scurry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Borden county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fisher county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Andrews county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Reeves county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pecos county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crane county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Glasscock county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ector county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Winkler county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Upton county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Loving county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "El Paso county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Brewster county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Otero county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hudspeth county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Presidio county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Culberson county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Colorado",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Arapahoe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Broomfield county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Boulder county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Denver county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gilpin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Eagle county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Routt county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clear Creek county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grand county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Weld county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Larimer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yuma county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kit Carson county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Teller county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pueblo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Las Animas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Baca county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crowley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bent county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Huerfano county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prowers county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alamosa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Conejos county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Archuleta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "La Plata county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Costilla county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Saguache county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rio Grande county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chaffee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gunnison county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hinsdale county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dolores county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Montezuma county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Montrose county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Miguel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ouray county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mesa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Moffat county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pitkin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rio Blanco county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Laramie county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Wyoming",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Goshen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Niobrara county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Converse county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sweetwater county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Washakie county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hot Springs county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Natrona county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Weston county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Crook county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sublette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Uinta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bonneville county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bannock county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Idaho",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bingham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Power county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Caribou county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bear Lake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lemhi county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Twin Falls county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cassia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gooding county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Camas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Jerome county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Minidoka county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nez Perce county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Idaho county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Latah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Boise county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Owyhee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Canyon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ada county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gem county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Payette county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kootenai county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shoshone county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bonner county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Boundary county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Benewah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Duchesne county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Utah",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Utah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Salt Lake county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Uintah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tooele county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Daggett county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rich county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wasatch county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Weber county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Box Elder county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cache county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Emery county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sanpete county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Millard county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Juab county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Piute county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Maricopa county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Arizona",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pinal county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gila county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pima county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yavapai county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "La Paz county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mohave county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Greenlee county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cochise county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Santa Cruz county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Navajo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Apache county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Coconino county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "McKinley county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sandoval county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "New Mexico",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Valencia county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cibola county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Socorro county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bernalillo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Torrance county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Santa Fe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rio Arriba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Taos county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Los Alamos county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Doña Ana county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mora county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Catron county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sierra county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Luna county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Curry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lea county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "De Baca county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Quay county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chaves county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Nevada",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nye county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Esmeralda county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "White Pine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lander county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Eureka county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Washoe county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Churchill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pershing county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Malheur county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Storey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Carson City county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Elko county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Los Angeles county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "California",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ventura county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Bernardino county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Riverside county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Diego county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Imperial county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Inyo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Santa Barbara county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tulare county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kern county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fresno county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Luis Obispo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Monterey county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mono county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Madera county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Merced county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mariposa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Mateo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Santa Clara county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Francisco county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sacramento county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alameda county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Napa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Contra Costa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Solano county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sonoma county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Marin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Benito county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "San Joaquin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Calaveras county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Alpine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Stanislaus county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tuolumne county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Mendocino county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Del Norte county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Siskiyou county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Amador county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Placer county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yolo county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "El Dorado county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sutter county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yuba county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Colusa county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Glenn county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Plumas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Shasta county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lassen county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Modoc county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tehama county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Honolulu county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Hawaii",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kauai county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hawaii county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Maui county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kalawao county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Western county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "American Samoa",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Guam county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Guam",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Palau",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Federated States of Micronesia",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Saipan county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Northern Mariana Islands",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Rota county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tinian county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Marshall Islands",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wasco county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Oregon",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clackamas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Multnomah county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hood River county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yamhill county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clatsop county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Tillamook county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Josephine county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Klamath county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Deschutes county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Harney county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Umatilla county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Gilliam county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wallowa county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Washington",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Snohomish county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kitsap county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kittitas county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Whatcom county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Skagit county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Island county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Clallam county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Grays Harbor county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pacific county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Cowlitz county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Klickitat county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Skamania county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wahkiakum county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chelan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Okanogan county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yakima county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Spokane county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Whitman county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ferry county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Pend Oreille county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Walla Walla county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Asotin county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Anchorage county",
+    "zipcode": []
+  },
+  {
+    "type": "state",
+    "name": "Alaska",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bethel county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "North Slope county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aleutians West county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Lake and Peninsula county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kodiak Island county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Aleutians East county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kusilvak county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Dillingham county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Kenai Peninsula county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yukon-Koyukuk county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Copper River county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Chugach county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Matanuska-Susitna county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Bristol Bay county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Nome county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Yakutat county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Fairbanks North Star county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Denali county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Southeast Fairbanks county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Northwest Arctic county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Hoonah-Angoon county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Haines county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Prince of Wales-Hyder county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Sitka county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Skagway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Ketchikan Gateway county",
+    "zipcode": []
+  },
+  {
+    "type": "county",
+    "name": "Wrangell county",
+    "zipcode": []
+  }
+]
