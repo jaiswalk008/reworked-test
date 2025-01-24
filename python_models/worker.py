@@ -6,10 +6,16 @@ import json
 import aioredis
 from column_mapping_new import map_columns_new
 import ast
+from dotenv import load_dotenv
+import os
+
+# Load environment variables
+load_dotenv()
+
 # Redis connection details
-REDIS_HOST = "caching-17f435c1-jaiswalk008-project1.h.aivencloud.com"
+REDIS_HOST = os.getenv("host")
 REDIS_PORT = 24056
-REDIS_PASSWORD = "AVNS_HVGyea8oU5rrDI2oO16"
+REDIS_PASSWORD = os.getenv("password")
 REDIS_USER = "default"
 
 # Set up logging

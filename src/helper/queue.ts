@@ -12,10 +12,10 @@ export const queue = new Queue('csv-polling', {
 });
 export const columnMappingQueue = new Queue('column-mapping',{
   redis:{
-    host:'caching-17f435c1-jaiswalk008-project1.h.aivencloud.com',
+    host:process.env.host,
     port:24056,
     User:"default",
-    password:"AVNS_HVGyea8oU5rrDI2oO16"
+    password:process.env.password
   }
 })
 columnMappingQueue.process(async (job:any) =>{
