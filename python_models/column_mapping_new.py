@@ -305,96 +305,108 @@ def required_columns_exist(df, industry_profile):
         return True, []
 
      
-def map_columns_new(file_name,new_name_dict, industry_profile , customer_email):
+def map_columns_new(file_name, new_name_dict, industry_profile, customer_email):
     logging.info('in map_columns')
-    renamed_cols={}
-    # industry_profile_json = json.loads(industry_profile)
-    new_file_name = file_name.split('.csv')[0]+'_rwr.csv'
-    #downloading file from S3
-    res= download_file_from_s3(file_name ,customer_email,3600 )
+    renamed_cols = {}
+
+    # Validate input types
+    if not isinstance(file_name, str):
+        raise ValueError("file_name must be a string")
+    if new_name_dict and not isinstance(new_name_dict, dict):
+        raise ValueError("new_name_dict must be a dictionary")
+    if not isinstance(industry_profile, dict):
+        raise ValueError("industry_profile must be a dictionary")
+    if not isinstance(customer_email, str):
+        raise ValueError("customer_email must be a string")
+
+    new_file_name = file_name.split('.csv')[0] + '_rwr.csv'
+
+    # Downloading file from S3
+    res = download_file_from_s3(file_name, customer_email, 3600)
     logging.info(f"Pre-signed URL generated: {res}")
-    #creating a temporary file
+
+    # Creating a temporary file
     target_directory = os.path.join(os.path.dirname(__file__), '../../.sandbox')
-    
+
     # Ensure the directory exists
     if not os.path.exists(target_directory):
         os.makedirs(target_directory)
         logging.info(f"Created target directory: {target_directory}")
-    
+
     # Set the final file path
     file_path = os.path.join(target_directory, f"{file_name}")
     new_file_path = os.path.join(target_directory, f"{new_file_name}")
-    
+    logging.info(f"File paths: {file_path}, {new_file_path}")
+
     # Download the file using the pre-signed URL
     response = requests.get(res)
+    logging.info(f"Download response: {response.status_code}")
     if response.status_code == 200:
         with open(file_path, 'wb') as f:
             f.write(response.content)
+            logging.info(response.content)
         logging.info("File downloaded successfully.")
     else:
         logging.error(f"Failed to download the file. Status code: {response.status_code}")
         raise Exception(f"Failed to download the file. HTTP status code: {response.status_code}")
-    
- 
-    
-    df = pd.read_csv(file_path, low_memory = False, on_bad_lines='warn')
-    logging.info(df)
-    if file_path.lower().endswith('.xlsx'):
-    
 
-        csv_path = file_path.lower().split('.xlsx')[0]+'.csv'
+    # Read the CSV file
+    df = pd.read_csv(file_path, low_memory=False, on_bad_lines='warn')
+    logging.info(f"DataFrame loaded: {df.shape}")
+
+    # If the file is an Excel file, convert it to CSV
+    if file_path.lower().endswith('.xlsx'):
+        csv_path = file_path.lower().split('.xlsx')[0] + '.csv'
         csv_from_excel(file_path, csv_path)
         file_path = csv_path
+
     # If caller of the script sends the column mapping, just use that
     source = ""
     df_renamed = pd.DataFrame()
-     
 
     if new_name_dict:
-        logging.info("column_mapping - using custom mapping", new_name_dict)
+        logging.info(f"column_mapping - using custom mapping: {new_name_dict}")
         df_renamed = rename_columns(file_path, new_name_dict)
         source = "custom"
-    # If caller has not sent column mapping then check if it's PRYCD or DataTree and process accordingly
     else:
         # Determine which mapping file to use based on industry type
         mapping_file = 'column_mappings.json'
-        if industry_profile and industry_profile.get('industryType') == 'roofing':
+        if industry_profile.get('industryType') == 'roofing':
             mapping_file = 'column_mapping_roofing.json'
             logging.info(f"Using roofing-specific mapping file: {mapping_file}")
+
         with open(os.path.join(pathlib.Path(__file__).parent.resolve(), mapping_file)) as f_in:
             df_mappings = json.load(f_in)
-        
-        # This is where we're renaming the columns from the original file
+
+        # Rename columns based on the mapping file
         for column_name in df.columns:
             if column_name.lower().strip() in df_mappings:
                 renamed_cols[column_name] = df_mappings[column_name.lower().strip()]
-                df.rename(columns = {column_name:df_mappings[column_name.lower().strip()]}, inplace = True)
+                df.rename(columns={column_name: df_mappings[column_name.lower().strip()]}, inplace=True)
         df_renamed = df
 
+    # Remove duplicate columns
+    df_renamed = df_renamed.loc[:, ~df_renamed.columns.duplicated()].copy()
 
-    # There's a chance the above process might create duplicate columns, the below will remove dupliate columns:
-    # https://stackoverflow.com/questions/14984119/python-pandas-remove-duplicate-columns
-    df_renamed = df_renamed.loc[:,~df_renamed.columns.duplicated()].copy()
-    # Doing some data massaging here 
+    # Create columns if they don't exist
     df_renamed_appended = create_columns_if_doesnt_exist(df_renamed)
-    
+
+    # Check if all required columns exist
     all_columns_present, missing_columns = required_columns_exist(df_renamed_appended, industry_profile)
     if not all_columns_present:
-        # if source == "custom":
-        #     error_message = "column_mapping.py -- Required columns don't exist for " + source + " file, columns missing are: " + ', '.join(missing_columns) + ", column mapping used: " + str(new_name_dict)
-        # else:
-        error_message = "column_mapping.py -- Required columns don't exist for " + source + " file, columns missing are: " + ', '.join(missing_columns)
-        raise Exception({"error_message":error_message,"mapped_cols":renamed_cols})
+        error_message = f"Required columns don't exist for {source} file, columns missing are: {', '.join(missing_columns)}"
+        raise Exception({"error_message": error_message, "mapped_cols": renamed_cols})
+
+    # Delete the temporary file
     if os.path.exists(file_path):
         try:
             os.remove(file_path)
             logging.info(f"Temporary file deleted: {file_path}")
         except Exception as e:
             logging.error(f"Failed to delete temporary file: {file_path}. Error: {e}")
-    
-    df_renamed_appended.to_csv(new_file_path, index=False)
-    upload_response= upload_s3(new_file_name, new_file_path, customer_email)
 
- 
+    # Save the renamed file and upload to S3
+    df_renamed_appended.to_csv(new_file_path, index=False)
+    upload_response = upload_s3(new_file_name, new_file_path, customer_email)
+
     return new_file_name, renamed_cols
-    
