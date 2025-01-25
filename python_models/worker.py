@@ -13,9 +13,9 @@ import os
 load_dotenv()
 
 # Redis connection details
-REDIS_HOST = os.getenv("host")
+REDIS_HOST = "caching-17f435c1-jaiswalk008-project1.h.aivencloud.com"
 REDIS_PORT = 24056
-REDIS_PASSWORD = os.getenv("password")
+REDIS_PASSWORD = "AVNS_HVGyea8oU5rrDI2oO16"
 REDIS_USER = "default"
 
 # Set up logging
@@ -23,18 +23,20 @@ logging.basicConfig(level=logging.INFO)
 
 # Create the BullMQ queue
 queue_name = "column-mapping"
-   # Create Redis client
+
+# Create Redis client (using redis-py)
 redis_url = f"redis://{REDIS_USER}:{REDIS_PASSWORD}@{REDIS_HOST}:{REDIS_PORT}"
-redis_client = aioredis.from_url(redis_url, decode_responses=True)
+redis_client = aioredis.StrictRedis.from_url(redis_url, decode_responses=True)
 logging.info(redis_client)
 logging.info(redis_url)
+
 # Define the job processing function
-async def process(job,job_token):
+async def process(job, job_token):
     hash_name = job.data.get('hashName')
-    new_name_dict={}
+    new_name_dict = {}
     try:
         # Extract job data
-        logging.info({'processing job with id= ':job.id})
+        logging.info({'processing job with id= ': job.id})
         file_name = job.data.get("file_name")
         email = job.data.get("email")
         industry_profile = job.data.get("industry_profile")
@@ -42,44 +44,45 @@ async def process(job,job_token):
         custom_mapping = job.data.get("custom_mapping")
         logging.info({"custom":custom_mapping})
         logging.info({"file_name":file_name,"email":email,"industry_profile":industry_profile_data})
-        if(custom_mapping != None):
+
+        if custom_mapping is not None:
+
             new_name_dict = ast.literal_eval(custom_mapping)
-        logging.info({"custom":custom_mapping,"ast":new_name_dict})
+        logging.info({"custom": custom_mapping, "ast": new_name_dict})
         result = []
-            # Process the job
-       
+        
+        # Process the job
         try:
-            result = map_columns_new(file_name, new_name_dict,industry_profile_data, email)
+            result = map_columns_new(file_name, new_name_dict, industry_profile_data, email)
             logging.info(result[0])
-         # Update Redis hash value
+
+            # Update Redis hash value
             if hash_name:
-                await redis_client.hset(hash_name, mapping={"taskCompleted": 'false', "inQueue": "false","mapped_cols":json.dumps(result[1])})
+                redis_client.hset(hash_name, mapping={"taskCompleted": 'false', "inQueue": "false", "mapped_cols": json.dumps(result[1])})
                 logging.info(f"Updated Redis hash {hash_name}: taskCompleted=True, inQueue=False")
+            
             # Return success response
-                return {"success": True,"originalFileName": file_name,"newFileName": result[0],"mapped_cols": result[1]}
+            return {"success": True, "originalFileName": file_name, "newFileName": result[0], "mapped_cols": result[1]}
         except Exception as e:
             error_details = e.args[0] 
-         
             error_message = error_details.get("error_message")
             mapped_cols = error_details.get("mapped_cols")  # Safely access mapped_cols
             logging.info(mapped_cols)
             exc = str(error_message).replace('"', '').replace("'", '')
             logging.error(f"Error in map_columns_new: {exc}")
             if hash_name:
-                await redis_client.hset(hash_name, mapping={"taskCompleted": 'false', "inQueue": "false","mapped_cols":json.dumps(mapped_cols)})
+                redis_client.hset(hash_name, mapping={"taskCompleted": 'false', "inQueue": "false", "mapped_cols": json.dumps(mapped_cols)})
                 logging.info(f"Updated Redis hash {hash_name}: taskCompleted=false, inQueue=False")
             return {
-                "success": False,"originalFileName": file_name,"newFileName": "error","error": "column_mapping_failure","error_details": exc,
-                "mapped_cols": mapped_cols}
+                "success": False, "originalFileName": file_name, "newFileName": "error", "error": "column_mapping_failure", 
+                "error_details": exc, "mapped_cols": mapped_cols}
 
     except Exception as e:
-        logging.error({"errorere":e})
+        logging.error({"errorere": e})
         logging.info(f"Updated Redis hash {hash_name}: taskCompleted=False,sss inQueue=False")
         return {
-                "success": False,"originalFileName": file_name,"newFileName": "error","error": "column_mapping_failure","error_details": e,
-                "mapped_cols": []}
-        
-
+                "success": False, "originalFileName": file_name, "newFileName": "error", "error": "column_mapping_failure", 
+                "error_details": str(e), "mapped_cols": []}
 
 # Main function to manage the worker lifecycle
 async def main():
@@ -92,8 +95,6 @@ async def main():
     # Assign signal handlers for graceful shutdown
     signal.signal(signal.SIGTERM, signal_handler)
     signal.signal(signal.SIGINT, signal_handler)
-
- 
 
     # Create the worker to process jobs from the queue
     worker = Worker(queue_name, process, {"connection": "redis://default:AVNS_HVGyea8oU5rrDI2oO16@caching-17f435c1-jaiswalk008-project1.h.aivencloud.com:24056"})
