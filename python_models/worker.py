@@ -41,6 +41,7 @@ async def process(job,job_token):
         industry_profile_data = json.loads(industry_profile)
         custom_mapping = job.data.get("custom_mapping")
         logging.info({"custom":custom_mapping})
+        logging.info({"file_name":file_name,"email":email,"industry_profile":industry_profile_data})
         if(custom_mapping != None):
             new_name_dict = ast.literal_eval(custom_mapping)
         logging.info({"custom":custom_mapping,"ast":new_name_dict})
